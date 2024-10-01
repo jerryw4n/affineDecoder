@@ -50,11 +50,3 @@ Calculates the modular inverse of `a` modulo `m`, which is required for the decr
 
 - **Returns:**
   - The modular inverse of `a` modulo `m`.
-
-## How to Use
-
-1. **Input the ciphertext:**
-   When prompted, enter the encrypted message (ciphertext) in uppercase letters.
-
-2. **Brute-force decryption:**
-   The `bruteForce()` function will try all possible key combinations and print the decrypted message for each pair of `a` and `b`.
