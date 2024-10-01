@@ -58,7 +58,3 @@ Calculates the modular inverse of `a` modulo `m`, which is required for the decr
 
 2. **Brute-force decryption:**
    The `bruteForce()` function will try all possible key combinations and print the decrypted message for each pair of `a` and `b`.
-
-### Example
-```bash
-Enter the sentence you want to decode: ZEBRAS
